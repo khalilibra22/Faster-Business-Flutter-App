@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179585100998",
+    "firebase_url": "https://fasterbusinessnodejsnotifiy.firebaseio.com",
+    "project_id": "fasterbusinessnodejsnotifiy",
+    "storage_bucket": "fasterbusinessnodejsnotifiy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179585100998:android:dc8bf132565c853bde3bc7",
+        "android_client_info": {
+          "package_name": "com.example.FasterBusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179585100998-i0mge4icmvldssr4oudt4mofker8o9q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.FasterBusiness",
+            "certificate_hash": "0465966564970e2c3e4e9c087d428e5b51ab1d6b"
+          }
+        },
+        {
+          "client_id": "179585100998-j6f2vgcu4q4ni719umdfctd253hqv2ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAhZ-vLh1_5NHharjc9uyZd94Ry1kozs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179585100998-j6f2vgcu4q4ni719umdfctd253hqv2ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
